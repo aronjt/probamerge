@@ -3,6 +3,7 @@ package com.epam.training;
 public class Main {
 
     public static void main(String[] args) {
-        String s = "feature";
+        String sf = "feature";
+        String s = "master";
     }
 }
